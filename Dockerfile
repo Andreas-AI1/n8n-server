@@ -10,4 +10,4 @@ ENV WEBHOOK_URL=https://din-host.render.com/
 
 EXPOSE 5678
 
-CMD ["n8n", "start", "--tunnel"]
+CMD ["n8n", "start"]
